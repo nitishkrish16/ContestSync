@@ -1,0 +1,221 @@
+{
+  "Day 1": [
+    {
+      "name": "Codeforces Round (Div. 1)",
+      "start_time": "2025-07-31T20:05:00",
+      "duration": 120,
+      "priority": 1.5,
+      "original_slot": 1
+    },
+    {
+      "name": "Codeforces Round 1039 (Div. 2)",
+      "start_time": "2025-07-27T20:05:00",
+      "duration": 120,
+      "priority": 1.5,
+      "original_slot": 1
+    },
+    {
+      "name": "Codeforces Round (Div. 1 + Div. 2)",
+      "start_time": "2025-08-07T20:05:00",
+      "duration": 180,
+      "priority": 1.3333333333333333,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #1",
+      "start_time": "2025-08-10T13:08:47",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #3",
+      "start_time": "2025-08-08T19:25:29",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #6",
+      "start_time": "2025-08-08T05:14:04",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #12",
+      "start_time": "2025-08-09T11:05:35",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #14",
+      "start_time": "2025-08-10T06:04:34",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #22",
+      "start_time": "2025-08-08T23:41:18",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #26",
+      "start_time": "2025-08-08T17:21:16",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #7",
+      "start_time": "2025-08-09T17:40:19",
+      "duration": 150,
+      "priority": 0.84,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #25",
+      "start_time": "2025-08-10T08:11:18",
+      "duration": 150,
+      "priority": 0.84,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #16",
+      "start_time": "2025-08-09T05:26:29",
+      "duration": 180,
+      "priority": 0.7999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #20",
+      "start_time": "2025-08-08T13:19:55",
+      "duration": 180,
+      "priority": 0.7999999999999999,
+      "original_slot": 1
+    },
+    {
+      "name": "Synthetic Contest #5",
+      "start_time": "2025-08-09T21:50:19",
+      "duration": 240,
+      "priority": 0.75,
+      "original_slot": 1
+    },
+    {
+      "name": "Codeforces Round (Div. 2)",
+      "start_time": "2025-07-31T20:05:00",
+      "duration": 120,
+      "priority": 1.5,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #10",
+      "start_time": "2025-08-09T07:43:38",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #21",
+      "start_time": "2025-08-10T12:11:49",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #24",
+      "start_time": "2025-08-08T23:53:12",
+      "duration": 120,
+      "priority": 0.8999999999999999,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #13",
+      "start_time": "2025-08-09T03:59:30",
+      "duration": 150,
+      "priority": 0.84,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #18",
+      "start_time": "2025-08-07T22:59:33",
+      "duration": 150,
+      "priority": 0.84,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #2",
+      "start_time": "2025-08-08T06:30:41",
+      "duration": 180,
+      "priority": 0.7999999999999999,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #4",
+      "start_time": "2025-08-08T10:56:06",
+      "duration": 240,
+      "priority": 0.75,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #8",
+      "start_time": "2025-08-09T23:46:15",
+      "duration": 240,
+      "priority": 0.75,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #9",
+      "start_time": "2025-08-09T19:25:12",
+      "duration": 240,
+      "priority": 0.75,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #23",
+      "start_time": "2025-08-10T04:01:18",
+      "duration": 240,
+      "priority": 0.75,
+      "original_slot": 2
+    },
+    {
+      "name": "Synthetic Contest #15",
+      "start_time": "2025-08-10T12:42:42",
+      "duration": 150,
+      "priority": 0.84,
+      "original_slot": 3
+    },
+    {
+      "name": "Synthetic Contest #11",
+      "start_time": "2025-08-08T23:34:28",
+      "duration": 180,
+      "priority": 0.7999999999999999,
+      "original_slot": 3
+    },
+    {
+      "name": "Synthetic Contest #17",
+      "start_time": "2025-08-09T21:15:22",
+      "duration": 240,
+      "priority": 0.75,
+      "original_slot": 3
+    },
+    {
+      "name": "Synthetic Contest #19",
+      "start_time": "2025-08-08T12:01:03",
+      "duration": 240,
+      "priority": 0.75,
+      "original_slot": 3
+    },
+    {
+      "name": "Sample Contest",
+      "start_time": "2025-07-31T21:05:00",
+      "duration": 120,
+      "priority": 0.9,
+      "original_slot": 3
+    }
+  ]
+}
