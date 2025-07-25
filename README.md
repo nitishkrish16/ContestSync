@@ -12,18 +12,21 @@
   - Welsh-Powell
   - DSatur
   - Backtracking
-- **Visualizations:** Generates:
-  - Conflict graphs
-  - Gantt charts
-  - Algorithm comparison plots
-- **Analytics:** Computes:
-  - Graph density
-  - Average contests per slot
-  - Priority distribution
-- **Flexible Configuration:** Customize:
-  - Contest count
-  - Time windows
-  - Output file names
+- **Visualizations:**
+  - Generates:
+    - Conflict graphs
+    - Gantt charts
+    - Algorithm comparison plots
+- **Analytics:**
+  - Computes:
+    - Graph density
+    - Average contests per slot
+    - Priority distribution
+- **Flexible Configuration:**
+  - Customize:
+    - Contest count
+    - Time windows
+    - Output file names
 
 ---
 
